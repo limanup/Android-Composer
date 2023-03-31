@@ -7,10 +7,31 @@ Android Composer is an app which finds multiple random short audio clips from th
 [Android Composer](https://youtu.be/BDDbA1enK_c)
 
 ## App User Interface
-|Composer|My Music|User Login Interface|
+<!-- |Composer|My Music|User Login Interface|
 |----|----|----|
-<!-- |![composer](Screenshot_composer.png)|![mymusic](Screenshot_mymusic.png)|![signin](Screenshot_signin.png)| -->
-|<img src="./Screenshot_composer.png" width=100px />|<img src="./Screenshot_mymusic.png" width=100px />|<img src="./Screenshot_signin.png" width=100px />|
+|![composer](Screenshot_composer.png)|![mymusic](Screenshot_mymusic.png)|![signin](Screenshot_signin.png)| -->
+<table>
+<th>
+Composer
+</th>
+<th>
+My Music
+</th>
+<th>
+User Login Interface
+</th>
+<tr>
+<td>
+<img src="./Screenshot_composer.png" width=200px />
+</td>
+<td>
+<img src="./Screenshot_mymusic.png" width=200px />
+</td>
+<td>
+<img src="./Screenshot_signin.png" width=200px />
+</td>
+</tr>
+</table>
 
 ## Android Features
 ### Bottom Navigation 
