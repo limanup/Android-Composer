@@ -1,7 +1,10 @@
-# Android-Composer
+# ANDROID COMPOSER
 
 ## App Overview
 Android Composer is an app which finds multiple random short audio clips from the open internet and concatenates them to produce a new music piece. The app aims to provide creative ideas in music composition for professional composers.
+
+## Video Demo
+[Android Composer](https://youtu.be/BDDbA1enK_c)
 
 ## App User Interface
 |Composer|My Music|User Login Interface|
