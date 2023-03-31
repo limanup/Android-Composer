@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "847381044387",
+    "project_id": "androidcomposer-7f783",
+    "storage_bucket": "androidcomposer-7f783.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847381044387:android:9d3bb1cac2e707d5be3316",
+        "android_client_info": {
+          "package_name": "edu.utap.limanup.androidcomposer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847381044387-au4934kmv9fd6sm79u2h04senu4ce1d9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.utap.limanup.androidcomposer",
+            "certificate_hash": "8f53918f2c120dfbc0a1b24d3e3d389876c8fcaf"
+          }
+        },
+        {
+          "client_id": "847381044387-fejua7p73grcsr3kqtaj7f83f4bgnus7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7VRpfORMvd0KDHGAuwKOcJe9Bvs-tgs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847381044387-fejua7p73grcsr3kqtaj7f83f4bgnus7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

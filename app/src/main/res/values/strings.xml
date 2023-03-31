@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android Composer</string>
+    <string name="title_composer">Composer</string>
+    <string name="title_mymusic">My Music</string>
+    <string name="title_signout">Sign Out</string>
+    <string name="compose_my_music">Compose My Music</string>
+    <string name="update_music_title">Update Music Title</string>
+    <string name="music_title_cannot_empty">Music title cannot be empty.</string>
+</resources>
