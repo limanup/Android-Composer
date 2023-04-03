@@ -36,13 +36,21 @@ User Login Interface
 
 ## API
 ### Freesound
+The audio clips supplied in Android Composer app are downloaded through Freesound API. 
 Freesound aims to create a huge collaborative database of audio snippets, samples, recordings, bleeps, ... released under Creative Commons licenses that allow their reuse. Freesound provides new and interesting ways of accessing these samples.   
 Freesound also aims to create an open database of sounds that can also be used for scientific research. Many audio research institutions have trouble finding correctly licensed audio to test their algorithms. 
 
 ### Firebase 
 - Authentication
+>- Allow multiple users using the app at the same time
+>- Limits each user with the ability to access the music pieces created by that specific user only.
 - Firestore Database 
+>- Stores metadata for each newly created music piece, each document represents a music piece created by users
+>- "uuid" field is the unique reference connecting to the music file stored in Firebase Storage
 - Storage
+>- Stores the music files created by users
+>- “uuid” field from Firestore Database references to the file name here
+>- When uploading music files to Storage, additional metadata like “duration” and “musicTitle” are also attached
 
 ## Android Features
 ### MediaPlayer
@@ -56,3 +64,8 @@ Freesound also aims to create an open database of sounds that can also be used f
 ### Action Bar 
 - Title: displays the title of the fragment (“Composer” or “My Music”)
 - Sign out : users can sign out at any time. This is a menu item in the action bar.
+
+
+## Summary on lines of code
+Summary from cloc:
+![code summary](code_summary.png)
