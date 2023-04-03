@@ -1,8 +1,7 @@
 # ANDROID COMPOSER
 
 ## App Overview
-Android Composer is an app which finds multiple random short audio clips from the open internet and concatenates them to produce a new music piece. The app aims to provide creative ideas in music composition for professional composers.  
-The app is built with Kotlin, and utilizes LiveData and ViewModel to manage data among multiple activities and fragments.
+Android Composer is an innovative app that generates unique music pieces by concatenating multiple random short audio clips from the internet. Designed for professional composers seeking creative inspiration, the app is built using Kotlin and leverages LiveData and ViewModel to manage data across multiple activities and fragments. The app's backend is powered by Firebase's services such as Authentication, Firestore Database, and Storage.
 
 ## Video Demo
 [Android Composer](https://youtu.be/BDDbA1enK_c)
