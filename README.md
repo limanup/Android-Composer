@@ -43,14 +43,14 @@ Freesound also aims to create an open database of sounds that can also be used f
 ### Firebase 
 - Authentication
   - Allow multiple users using the app at the same time
->- Limits each user with the ability to access the music pieces created by that specific user only.
+  - Limits each user with the ability to access the music pieces created by that specific user only.
 - Firestore Database 
->- Stores metadata for each newly created music piece, each document represents a music piece created by users
->- "uuid" field is the unique reference connecting to the music file stored in Firebase Storage
+  - Stores metadata for each newly created music piece, each document represents a music piece created by users
+  - "uuid" field is the unique reference connecting to the music file stored in Firebase Storage
 - Storage
->- Stores the music files created by users
->- “uuid” field from Firestore Database references to the file name here
->- When uploading music files to Storage, additional metadata like “duration” and “musicTitle” are also attached
+  - Stores the music files created by users
+  - “uuid” field from Firestore Database references to the file name here
+  - When uploading music files to Storage, additional metadata like “duration” and “musicTitle” are also attached
 
 ## Android Features
 ### MediaPlayer
