@@ -63,7 +63,7 @@ Freesound also aims to create an open database of sounds that can also be used f
 
 ### Action Bar 
 - Title: displays the title of the fragment (“Composer” or “My Music”)
-- Sign out : users can sign out at any time. This is a menu item in the action bar.
+- Sign out: users can sign out at any time. This is a menu item in the action bar.
 
 
 ## Summary on lines of code
