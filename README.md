@@ -36,7 +36,7 @@ User Login Interface
 
 ## API
 ### Freesound
-The audio clips supplied in Android Composer app are downloaded through Freesound API. 
+The audio clips supplied in Android Composer app are downloaded through Freesound API.   
 Freesound aims to create a huge collaborative database of audio snippets, samples, recordings, bleeps, ... released under Creative Commons licenses that allow their reuse. Freesound provides new and interesting ways of accessing these samples.   
 Freesound also aims to create an open database of sounds that can also be used for scientific research. Many audio research institutions have trouble finding correctly licensed audio to test their algorithms. 
 
