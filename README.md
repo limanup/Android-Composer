@@ -42,7 +42,7 @@ Freesound also aims to create an open database of sounds that can also be used f
 
 ### Firebase 
 - Authentication
->- Allow multiple users using the app at the same time
+  - Allow multiple users using the app at the same time
 >- Limits each user with the ability to access the music pieces created by that specific user only.
 - Firestore Database 
 >- Stores metadata for each newly created music piece, each document represents a music piece created by users
@@ -67,5 +67,5 @@ Freesound also aims to create an open database of sounds that can also be used f
 
 
 ## Summary on lines of code
-Summary from cloc:
+Summary from cloc:  
 ![code summary](code_summary.png)
